@@ -2,6 +2,10 @@
 
 A basic calculator application built using JavaFX. This calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division with a user-friendly interface.
 
+## Design
+![Sample Design](Simple-JavaFX-Calc/calcsample.png)
+
+
 ## Features
 
 - **Basic Operations**: Perform addition (`+`), subtraction (`-`), multiplication (`*`), and division (`/`).
